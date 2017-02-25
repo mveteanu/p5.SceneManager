@@ -19,7 +19,7 @@ function draw() {
 }
 ```
 
-... you you the setup() and draw() methods of Scene classes
+... you put each scene code in the setup() and draw() methods of individual Scene classes:
 
 ```JavaScript
 function Intro()
@@ -29,11 +29,24 @@ function Intro()
 
     this.draw = function() {
     }
+
+    this.keyPressed = function() {
+        // On key press, switch to the Game scene
+        this.sceneManager.showScene( Game );
+    }
+}
+
+function Game()
+{
+    this.setup = function() {
+    }
+
+    this.draw = function() {
+    }
 }
 ```
 
-The SceneManager will provide you with methods necesary to switch to the appropriate scene
-and route the p5.js events to your defined events.
+The SceneManager will provide you with methods necesary to switch to the appropriate scene and route the main p5.js events to your defined events.
 
 Source Code
 -----------
