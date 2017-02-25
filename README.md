@@ -1,7 +1,7 @@
 p5.js SceneManager
 ==================
 
-p5.js SceneManager helps you create p5.js sketches with multiple states / scenes.
+p5.js SceneManager helps you create [p5.js](https://github.com/processing/p5.js) sketches with multiple states / scenes.
 Each scene is a like a sketch within the main sketch. You focus on creating
 the scene like a regular sketch and SceneManager ensure scene switching
 routing the main setup(), draw(), mousePressed(), etc. events to the 
@@ -69,3 +69,4 @@ You can try online the SceneManager and the above demo code at:
 - [sample_instance.html](http://www.vmasoft.net/p5/sample_instance.html)
 - [game.html](http://www.vmasoft.net/p5/game.html)
 
+VMA
