@@ -17,11 +17,7 @@ Source code is located in [lib/scenemanager.js](lib/scenemanager.js)
 Demo Code
 ---------
 
-For demo please check:
-
-- [sample.html](sample.html)
-- [sample_instance.html](sample_instance.html)
-- [game.html](game.html)
+For demo please check [sample.html](sample.html), [sample_instance.html](sample_instance.html) and [game.html](game.html)
 
 
 Online demo
