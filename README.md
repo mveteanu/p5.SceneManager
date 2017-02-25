@@ -31,7 +31,6 @@ function Intro()
     }
 
     this.keyPressed = function() {
-        // On key press, switch to the Game scene
         this.sceneManager.showScene( Game );
     }
 }
