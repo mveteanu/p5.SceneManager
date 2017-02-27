@@ -63,7 +63,7 @@ Online demo
 -----------
 
 You can try online the SceneManager and the above demo code at:
-[http://www.vmasoft.net/](http://www.vmasoft.net/)
+[http://www.vmasoft.net/p5/](http://www.vmasoft.net/p5/)
 
 - [sample.html](http://www.vmasoft.net/p5/sample.html)
 - [sample_instance.html](http://www.vmasoft.net/p5/sample_instance.html)
