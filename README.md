@@ -22,6 +22,7 @@ function draw() {
 ... you put each scene code in the setup() and draw() methods of individual Scene classes:
 
 ```JavaScript
+// Intro scene constructor function
 function Intro()
 {
     this.setup = function() {
@@ -31,10 +32,12 @@ function Intro()
     }
 
     this.keyPressed = function() {
+        // switch the scene
         this.sceneManager.showScene( Game );
     }
 }
 
+// Main games scene constructor function
 function Game()
 {
     this.setup = function() {
