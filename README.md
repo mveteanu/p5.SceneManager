@@ -77,10 +77,10 @@ Future development
 ------------------
 
 The library can be further extended with features such as:
-- routing of more / all events to the apropriate scene class
+- routing of more / all events to the appropriate scene class
 - running of multiple scenes in parallel (overlapped)
 - running of multiple scenes in parallel in individual areas of a bigger canvas
 
-If you are interested in this features, please open an issue here on GitHub.
+If you are interested in these features, please open an issue here on GitHub.
 
 VMA
