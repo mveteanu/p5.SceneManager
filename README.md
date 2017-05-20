@@ -72,4 +72,15 @@ You can try online the SceneManager and the above demo code at:
 - [sample_instance.html](http://www.vmasoft.net/p5/sample_instance.html)
 - [game.html](http://www.vmasoft.net/p5/game.html)
 
+
+Future development
+------------------
+
+The library can be further extended with features such as:
+- routing of more / all events to the apropriate scene class
+- running of multiple scenes in parallel (overlapped)
+- running of multiple scenes in parallel in individual areas of a bigger canvas
+
+If you are interested in this features, please open an issue here on GitHub.
+
 VMA
