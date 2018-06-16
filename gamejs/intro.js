@@ -14,7 +14,7 @@ function Intro()
             // Invoke the Game scene passing as argument the string '1' or '2'
             this.sceneManager.showScene( Game, key );
         }
-    } 
+    }
 
     function drawIntroScreen()
     {
