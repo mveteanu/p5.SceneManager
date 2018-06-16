@@ -65,12 +65,11 @@ For demo please check sample.html, sample_instance.html and game.html
 Online demo
 -----------
 
-You can try online the SceneManager and the above demo code at:
-[http://www.vmasoft.net/p5/](http://www.vmasoft.net/p5/)
+You can try online the SceneManager using the following demos:
 
-- [sample.html](http://www.vmasoft.net/p5/sample.html)
-- [sample_instance.html](http://www.vmasoft.net/p5/sample_instance.html)
-- [game.html](http://www.vmasoft.net/p5/game.html)
+- [sample.html](https://mveteanu.github.io/p5.SceneManager/sample.html)
+- [sample_instance.html](https://mveteanu.github.io/p5.SceneManager/sample_instance.html)
+- [game.html](https://mveteanu.github.io/p5.SceneManager/game.html)
 
 
 Future development
