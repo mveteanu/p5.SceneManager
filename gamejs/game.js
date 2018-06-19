@@ -89,7 +89,6 @@ function Game()
             if ( me.sceneArgs == '1' )
             {
                 catchBall(ball);
-                console.log(me.sceneManager.scene.fnScene);
             }
         }
     }

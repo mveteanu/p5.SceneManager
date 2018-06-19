@@ -26,7 +26,7 @@ function draw()
 
 function mousePressed()
 {
-    mgr.mousePressed();
+    mgr.handleEvent("mousePressed");
 }
 
 function keyPressed()
@@ -46,7 +46,7 @@ function keyPressed()
     }
     
     // ... then dispatch via the SceneManager.
-    mgr.keyPressed();
+    mgr.handleEvent("keyPressed");
 }
 
 
