@@ -90,4 +90,10 @@ The library can be further extended with features such as:
 
 If you are interested in these features, please open an issue here on GitHub.
 
+
+License
+-------
+
+[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+
 VMA
