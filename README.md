@@ -1,7 +1,9 @@
 p5.js SceneManager
 ==================
 
-> News: A modified version of 'p5.js SceneManager' is a key component of [codeguppy.com](https://codeguppy.com) - coding site for kids, teens and creative adults.
+
+> News: A modified version of 'p5.js SceneManager' is a key component of [codeguppy.com](https://codeguppy.com) - a new coding site for kids, teens and creative adults.
+
 
 p5.js SceneManager helps you create [p5.js](https://github.com/processing/p5.js) sketches with multiple states / scenes.
 Each scene is a like a sketch within the main sketch. You focus on creating
