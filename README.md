@@ -78,7 +78,9 @@ For demo please check sample.html, sample_instance.html and game.html
 Online demo
 -----------
 
-You can try online the SceneManager using the following demos:
+If you want to play with scenes in an online playground, just go to [codeguppy.com/code.html](https://codeguppy.com/code.html) code editor.
+
+If you want to try the classical standalone demostrations of SceneManager, then check-out the following examples:
 
 - [sample.html](https://mveteanu.github.io/p5.SceneManager/sample.html)
 - [sample_instance.html](https://mveteanu.github.io/p5.SceneManager/sample_instance.html)
