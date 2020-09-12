@@ -82,9 +82,11 @@ If you want to play with scenes in an online playground, just go to [codeguppy.c
 
 If you want to try the classical standalone demostrations of SceneManager, then check-out the following examples:
 
-- [sample.html](https://mveteanu.github.io/p5.SceneManager/sample.html)
-- [sample_instance.html](https://mveteanu.github.io/p5.SceneManager/sample_instance.html)
-- [game.html](https://mveteanu.github.io/p5.SceneManager/game.html)
+| Code | Online version |
+|------|----------------|
+| [sample.html](https://github.com/mveteanu/p5.SceneManager/blob/master/sample.html) | [sample.html](https://mveteanu.github.io/p5.SceneManager/sample.html) |
+| [sample_instance.html](https://github.com/mveteanu/p5.SceneManager/blob/master/sample_instance.html) | [sample_instance.html](https://mveteanu.github.io/p5.SceneManager/sample_instance.html) |
+| [game.html](https://github.com/mveteanu/p5.SceneManager/blob/master/game.html) | [game.html](https://mveteanu.github.io/p5.SceneManager/game.html) |
 
 
 Future development
