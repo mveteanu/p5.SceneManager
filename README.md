@@ -1,7 +1,7 @@
 p5.js SceneManager
 ==================
 
-p5.js SceneManager is used by countless of p5.js developers across the world to add scene management capabilities to their p5.js sketches. If you are using 'p5.js SceneManager' in your project, it will be great if you share the details of your project with me (totally optional though).
+p5.js SceneManager is used by countless of p5.js developers across the world to add scene management capabilities to their p5.js sketches. If you are using 'p5.js SceneManager' in your project, it will be great if you share the details of your project with me (totally optional though). I may even feature your project on this page.
 
 News
 ----
