@@ -6,9 +6,9 @@ News
 
 - [codeguppy.com](https://codeguppy.com) coding platform is now using a modified version of 'p5.js SceneManager'.
 
-If you are using 'p5.js SceneManager' in your project, it will be great if you share the details of your project with me (totally optional though).
-
 [![JavaScript projects](img/creative_projects.png)](https://codeguppy.com)
+
+Note: If you are using 'p5.js SceneManager' in your project, it will be great if you share the details of your project with me (totally optional though).
 
 Description
 -----------
