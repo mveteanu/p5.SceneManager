@@ -6,7 +6,7 @@ p5.js SceneManager is used by countless of p5.js developers across the world to 
 News
 ----
 
-- [codeguppy.com](https://codeguppy.com) coding platform is now using a modified version of 'p5.js SceneManager'. Check it out - is super cool!
+- The free coding platform [codeguppy.com](https://codeguppy.com) is using a modified version of 'p5.js SceneManager'. codeguppy.com is used in schools and coding clubs around the world. Check it out - is super cool!
 
 [![JavaScript projects](img/creative_projects.png)](https://codeguppy.com)
 
